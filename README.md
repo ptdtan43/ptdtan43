@@ -1,11 +1,11 @@
 # 💻 About Me
-Hi there! I'm Duy Tân, a passionate Software Engineering student at FPT University Ho Chi Minh City, specializing in backend development with a growing interest in DevOps practices.
+Hi there! I'm **Duy Tân**, a passionate Software Engineering student at **FPT University** Ho Chi Minh City, specializing in **Backend development** with a growing interest in **DevOps practices**.
 
-I love building robust systems and exploring how modern tools like Docker and CI/CD pipelines transform the way we develop and deliver software. There's something exciting about understanding the full journey—from writing code to deploying it at scale.
+I love building **robust systems** and exploring how modern tools like **Docker** and **CI/CD pipelines** transform the way we develop and deliver software. There's something exciting about understanding the full journey — from writing code to deploying it at scale.
 
-My journey is driven by continuous learning and growth. I'm always eager to take on new challenges, whether it's diving deeper into infrastructure automation or collaborating on innovative projects that make an impact.
+My journey is driven by **continuous learning**. I'm always eager to take on new challenges, whether it's diving deeper into **infrastructure automation** or collaborating on innovative projects that make an impact.
 
-And about my goal, I'd love to work with talented teams at big tech companies or build my own startup, creating solutions that solve real problems and push the boundaries of what's possible in technology.
+**My Goal:** To work with talented teams at big tech companies or build my own startup, creating solutions that solve real problems.
 
 Let's build something amazing together! 🚀
 ## 🌐 Socials:
